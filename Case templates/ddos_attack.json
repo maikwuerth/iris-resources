@@ -34,7 +34,7 @@
         "tags": ["defense", "prevention"]
         }
     ],
-    "note_groups": [
+    "note_directories": [
         {
         "title": "DDoS attack details",
         "notes": [

@@ -44,7 +44,7 @@
         "tags": ["lessons learned", "incident response plan"]
       }
     ],
-    "note_groups": [
+    "note_directories": [
       {
         "title": "Ransomware details",
         "notes": [

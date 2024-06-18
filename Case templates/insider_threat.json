@@ -34,7 +34,7 @@
         "tags": ["security", "prevention"]
       }
     ],
-    "note_groups": [
+    "note_directories": [
       {
         "title": "Insider threat details",
         "notes": [

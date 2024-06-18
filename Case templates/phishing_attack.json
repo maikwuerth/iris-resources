@@ -52,7 +52,7 @@
             ]
         }
     ],
-    "note_groups": [
+    "note_directories": [
         {
             "title": "Phishing email details",
             "notes": [

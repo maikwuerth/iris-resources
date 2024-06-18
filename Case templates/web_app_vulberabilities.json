@@ -39,7 +39,7 @@
         "tags": ["security", "prevention"]
       }
     ],
-    "note_groups": [
+    "note_directories": [
       {
         "title": "Web application vulnerability details",
         "notes": [

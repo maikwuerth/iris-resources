@@ -34,7 +34,7 @@
         "tags": ["security", "prevention"]
       }
     ],
-    "note_groups": [
+    "note_directories": [
       {
         "title": "Cloud data breach details",
         "notes": [
